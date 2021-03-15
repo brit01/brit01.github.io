@@ -7,3 +7,29 @@
 html {
     font-size: 62.5%;
 }
+
+.header {
+    background-color: #B7E3EE;
+    
+    
+}
+
+.menu {
+    height: 100px;
+    
+}
+
+.menu ol {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+    padding: 0.5rem;
+    font-size: 1.6rem;
+}
